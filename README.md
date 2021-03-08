@@ -2,9 +2,9 @@ BELLAMKONDA SRIKANTH
 ============
 
 -------------------     ----------------------------
-Email                       bellamkondasrikanth785@gmail.com
-phone                         9000838796
-MyCountry                           India
+-Email                       bellamkondasrikanth785@gmail.com
+-phone                         9000838796
+-MyCountry                           India
 -------------------     ----------------------------
 
 Education

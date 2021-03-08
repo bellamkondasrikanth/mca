@@ -18,7 +18,7 @@ Education
 2017-2019
 :   **BSc, Computer **; University of
     HomeTown (HomeTown)
-    ***Intermediate***
+    ***Intermediate*** hometown
 
     *Minor: movies*
 * First item
@@ -35,7 +35,7 @@ certification
 
 personal info
 --------------------
-Father name  :BELLAMKONDA CHINNA CHENNIAH
-DOB           :07-11-1998
-Gender       :male
-Address      :GUNTUR
+-Father name  :BELLAMKONDA CHINNA CHENNIAH
+-DOB           :07-11-1998
+-Gender       :male
+-Address      :GUNTUR
